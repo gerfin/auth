@@ -1,0 +1,20 @@
+{
+    "name": "gf2007/auth",
+    "type": "library",
+    "require": {
+        "alibabacloud/client": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gf2007",
+            "email": "gf2007@vip.qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "gf2007\\auth\\": "src"
+        }
+    }
+}
